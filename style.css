@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    background-color: #CCF5AC;
+    color: #3D2B56;
+}
+
+.recipe-list {
+    text-align: center;
+    list-style-type: none;
+}
+
+ul li {
+    text-align: center;
+}

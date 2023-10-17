@@ -8,13 +8,20 @@
     text-align: center;
     background-color: #CCF5AC;
     color: #3D2B56;
+    font-size: 55px;
 }
 
 .recipe-list {
     text-align: center;
     list-style-type: none;
+    background-color: #ECEFE6;
 }
 
 ul li {
     text-align: center;
+}
+
+.recipe {
+    margin: 10px;
+    color: #2E3138;
 }

@@ -23,5 +23,15 @@ ul li {
 
 .recipe {
     margin: 10px;
-    color: #2E3138;
+    padding: 50px;
+    color: #eed234;
+    background-color: #7c9b4a;
+}
+
+.one {
+    text-align: left;
+}
+
+.three {
+    text-align: right;
 }
